@@ -1,0 +1,41 @@
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.exe
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.deps.json
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.runtimeconfig.json
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.dll
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.pdb
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\AWSSDK.SQS.dll
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.AssemblyReference.cache
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.Form1.resources
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.GenerateResource.cache
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.AssemblyInfoInputs.cache
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.AssemblyInfo.cs
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.CopyComplete
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.dll
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\refint\ReceptorSQS.dll
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.pdb
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.genruntimeconfig.cache
+C:\Users\nestor.velez\source\repos\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ref\ReceptorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.exe
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.deps.json
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\ReceptorSQS.pdb
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\AWSSDK.SQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\refint\ReceptorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.pdb
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ref\ReceptorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\ReceptorSQS\ReceptorSQS\obj\Debug\net6.0-windows\ReceptorSQS.Form1.resources

@@ -1,0 +1,40 @@
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.exe
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.deps.json
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.runtimeconfig.json
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.dll
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.pdb
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\AWSSDK.SQS.dll
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.AssemblyReference.cache
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.Form1.resources
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.GenerateResource.cache
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.AssemblyInfoInputs.cache
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.AssemblyInfo.cs
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.CopyComplete
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.dll
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\refint\PublicadorSQS.dll
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.pdb
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.genruntimeconfig.cache
+C:\Users\nestor.velez\source\repos\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\ref\PublicadorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.exe
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.deps.json
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\PublicadorSQS.pdb
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\bin\Debug\net6.0-windows\AWSSDK.SQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\refint\PublicadorSQS.dll
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.pdb
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\PublicadorSQS.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\8VO SEMESTRE\PublicadorSQS\PublicadorSQS\obj\Debug\net6.0-windows\ref\PublicadorSQS.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIcbOnjaydzSLtAXoATo3OvLpQhE6uG+6hAsqQX+04x9fPftcCvSJ0HkuFbjddkFdHGfjQgqlHpQBrbrVZvC7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\8VO SEMESTRE\\ReceptorSQS\\ReceptorSQS\\ReceptorSQS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.core\\3.7.300.6\\awssdk.core.3.7.300.6.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.sqs\\3.7.300.6\\awssdk.sqs.3.7.300.6.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

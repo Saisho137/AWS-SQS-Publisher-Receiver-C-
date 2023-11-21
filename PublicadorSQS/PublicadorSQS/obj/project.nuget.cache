@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCwB0rE8rrnhekYAHHfBzqGqqu4zNHyJrqybUhXyagE5yeGGxOg80H7rgIyajpuxB42/zqdDjsYrft+kNe00OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\8VO SEMESTRE\\PublicadorSQS\\PublicadorSQS\\PublicadorSQS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.core\\3.7.106.40\\awssdk.core.3.7.106.40.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.sqs\\3.7.102.8\\awssdk.sqs.3.7.102.8.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
